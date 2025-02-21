@@ -33,7 +33,9 @@ The dataset consists of multiple economic indicators that influence gold prices,
 - Evaluated model accuracy using:
   - **Mean Absolute Error (MAE)**
   - **R² Score**
-    
+- **Train Data R² Score:** 0.998
+- **Test Data R² Score:** 0.989
+
 ## Results & Insights
 
 - The **Random Forest Regressor** provided a reliable prediction of gold prices.
